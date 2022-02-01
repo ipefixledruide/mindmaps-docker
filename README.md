@@ -18,6 +18,4 @@ Or run with
 
 App sources available here: https://github.com/drichard/mindmaps
 
-More info: https://sysadmin.rquinzio.fr/
-
 The mindmaps app is licenced under GNU Affero General Public License v3.0 (https://www.gnu.org/licenses/agpl-3.0.en.html)
